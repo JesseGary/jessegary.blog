@@ -1,124 +1,56 @@
-<html>
+<!DOCTYPE html>
+<html lang="zh-CN">
 <head>
-  <meta charset="utf-8" />
-<meta name="description" content="" />
-<meta name="viewport" content="width=device-width, initial-scale=1" />
-<meta name="robots" content="all,follow">
-<meta name="googlebot" content="index,follow,snippet,archive">
+<!-- 必要参数 -->
+<meta charset="utf-8"/>
 <title>Humidity 绿色应用计划 | Humidity 商店</title>
-<link rel="shortcut icon" href="https://jessegary.github.io/favicon.ico?v=1590754998251">
-<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
-<link rel="stylesheet" href="https://jessegary.github.io/styles/main.css" type='text/css' media='all'>
-
-<script src="https://cdn.bootcss.com/highlight.js/9.12.0/highlight.min.js"></script>
-<script src="https://cdn.bootcss.com/moment.js/2.23.0/moment.min.js"></script>
-
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.10.0/katex.min.css">
-
-
-
+<meta name="keywords" content="关键词"/>
+<meta name="description" content="简述"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable:no"/>
+<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+<link rel="shortcut icon" href="favicon.ico">
+<!-- CSS -->
+<link rel="stylesheet" href="https://jessegary.github.io/media/css/mdui.min.css">
+<link rel="stylesheet" href="https://jessegary.github.io/media/css/modify.css">
+<link rel="stylesheet" href="https://jessegary.github.io/media/css/github-gist.min.css">
+<link rel="stylesheet" href="https://jessegary.github.io/media/css/railscasts.min.css">
 </head>
-<body class="home blog ct-body standard">
-<div id="overflow-container" class="overflow-container">
-  <a class="skip-content" href="#main">Skip to content</a>
-  <header id="site-header" class="site-header" role="banner">
-    <div class='top-navigation top-navigation-important'>
-        <div class='container'>
-            <div id="menu-secondary" class="menu-container menu-secondary" role="navigation">
-                <button id="toggle-secondary-navigation" class="toggle-secondary-navigation"><i class="fa fa-plus"></i></button>
-                <div class="menu">
-                    <ul id="menu-secondary-items" class="menu-secondary-items">
-                        
-                        
-                    </ul>
-                </div>
-            </div>
-            <ul class="social-media-icons">
-                
-                    
-                
-                    
-                
-                    
-                
-                    
-                
-                    
-                
-                    
-                
-                    
-                
-                    
-                
-            </ul>
+<body id="post" class="mdui-appbar-with-toolbar mdui-theme-primary-blue-grey mdui-theme-accent-blue mdui-theme-layout-dark">
+<header role="banner">
+    <div class="mdui-appbar mdui-appbar-fixed mdui-appbar-scroll-hide mdui-shadow-0">
+        <div class="mdui-toolbar">
+            <button class="mdui-btn mdui-btn-icon" id="menu" mdui-drawer="{target:'#drawer',overlay:true,swipe:true}"><i class="mdui-icon material-icons">menu</i></button>
+            <a href="https://jessegary.github.io" class="mdui-typo-headline">Humidity 商店</a>
+            <div class="mdui-toolbar-spacer"></div>
+            <button class="mdui-btn mdui-btn-icon" mdui-tooltip="{content: '深色样式切换', position: 'left'}" id="DarkStyle"><i class="mdui-icon material-icons">brightness_4</i></button>
         </div>
     </div>
-
-    <div class="container">
-        <div id="title-info" class="title-info">
-            <div id='site-title' class='site-title'>
-                <a href="https://jessegary.github.io">  Humidity 商店 </a>
-            </div>
-        </div>
-        <button id="toggle-navigation" class="toggle-navigation">
-            <i class="fa fa-bars"></i>
-        </button>
-        <div id="menu-primary-tracks" class="menu-primary-tracks"></div>
-        <div id="menu-primary" class="menu-container menu-primary" role="navigation">
-            <p class="site-description">欢迎来到生态圈商店，您可以在这里下载应用</p>
-            <div class="menu">
-                <ul id="menu-primary-items" class="menu-primary-items">
-                     
-                        
-                            <li id="menu-item" class='menu-item menu-item-type-post_type menu-item-object-page current-menu-item current_page_item'>
-                                <a href="https://jessegary.github.io/">应用下载</a>
-                            </li>
-                        
-                    
-                        
-                            <li id="menu-item" class='menu-item menu-item-type-post_type menu-item-object-page current-menu-item current_page_item'>
-                                <a href="https://jessegary.github.io/post/ying-yong-fa-bu-mo-ban" target="_blank">应用发布模板</a>
-                            </li>
-                        
-                    
-                        
-                            <li id="menu-item" class='menu-item menu-item-type-post_type menu-item-object-page current-menu-item current_page_item'>
-                                <a href="https://jessegary.github.io/post/huan-ying-lai-dao-jessegary-de-ge-ren-bo-ke">个人博客</a>
-                            </li>
-                        
-                    
-                </ul>
-            </div>
-        </div>
-    </div>
-
-
 </header>
 
-
-  <div id="main" class="main" role="main">
-    <div id="loop-container" class="loop-container">
-      <div class="post type-post status-publish format-standard has-post-thumbnail hentry category-design tag-design tag-standard-2 tag-tagalicious tag-travel entry full-without-featured odd excerpt-1">
+<nav id="drawer" class="mdui-drawer mdui-drawer-full-height mdui-drawer-close">
+    <ul class="mdui-list">
+        <a href="https://jessegary.github.io/" class="menu"><li class="mdui-list-item mdui-ripple">应用下载</li></a>
         
-          <div class='featured-image lazy lazy-bg-image' data-background="https://jessegary.github.io/post-images/humidity-lu-se-ying-yong-ji-hua.png">
-          </div>
+            <a href="https://jessegary.github.io/post/ying-yong-fa-bu-mo-ban" target="_blank"><li class="mdui-list-item mdui-ripple">应用发布模板</li></a>
+        <a href="https://jessegary.github.io/post/huan-ying-lai-dao-jessegary-de-ge-ren-bo-ke" class="menu"><li class="mdui-list-item mdui-ripple">个人博客</li></a>
         
+        <a href="https://github.com/CPlayer-CN/gridea-theme-cplayer-material" class="spread"><li class="mdui-list-item mdui-ripple">主题主页</li></a>
+    </ul>
+</nav>
 
-        <div class="entry-meta">
-          <span class="date">· 2020-05-06 ·</span> <span> / </span>
-          <span class="author">
-            <a href="https://jessegary.github.io" title="" rel="author"> Powered by <a href="https://bilibili.com" target="_blank"> Humidity PowerPoint</a></a>
-          </span>
-          
+
+<main class="mdui-container mdui-typo mdui-m-t-2">
+    <section class="mdui-card">
+        
+        <div class="mdui-card-media">
+            <img src="https://jessegary.github.io/post-images/humidity-lu-se-ying-yong-ji-hua.png">
         </div>
-        <div class='entry-header'>
-          <h1 class='entry-title'>Humidity 绿色应用计划</h1>
+        
+        <div class="mdui-card-primary">
+            <div class="mdui-card-primary-title">Humidity 绿色应用计划</div>
+            <div class="mdui-card-primary-subtitle">发布于 2020-05-06，包含标签 。</div>
         </div>
-        <div class="entry-container">
-          <div class="entry-content">
-            <article>
-              <p>*Humidity 绿色应用计划<br>
+        <div class="mdui-card-content"><p>*Humidity 绿色应用计划<br>
 <a href="https://jessegary.github.io/">&lt; 返回商店</a></p>
 <h2 id="简介">简介</h2>
 <p>Humidity 绿色应用计划在于保护用户隐私，设备流畅性，遵循的应用，不要求过多权限，后台不费电，无病毒，安全省心</p>
@@ -136,105 +68,39 @@
 <p>暂时没有应用</p>
 <h2 id="不通过公约应用">不通过公约应用</h2>
 <figure data-type="image" tabindex="2"><img src="https://jessegary.github.io/post-images/1588759526769.png" alt="" loading="lazy"></figure>
-
-            </article>
-          </div>
-          <div class='entry-meta-bottom'>
-            <div class="entry-categories">
-              <p>
-                <span>Categories</span>
-                
-                  
-              </p>
-            </div>
-            <div class="entry-tags">
-              <p><span>Tags</span>
-              </p>
-            </div>
-          </div>
-          <div class="author-meta">
-            <div class="author">
-              <img alt='' src="https://jessegary.github.io/images/avatar.png?v=1590754998251" class='avatar avatar-72 photo' height='72' width='72'>
-              <span>WRITTEN BY: &nbsp;&nbsp;&nbsp;<a href='https://jessegary.github.io'></a> </span>
-            </div>
-            <div class="bio">
-              <p></p>
-              
-                
-              
-                
-              
-                
-              
-                
-              
-                
-              
-                
-              
-                
-              
-                
-              
-            </div>
-          </div>
-        </div>
-          
-            <nav class="navigation pagination" role="navigation">
-              <h2 class="screen-reader-text">Posts navigation</h2>
-              <div class="nav-links">
-                <a class="next page-numbers" href="https://jessegary.github.io/post/jing-xin-shi-jian-rang-ni-ke-yi-geng-jia-zhuan-zhu-wan-cheng-gong-zuo-byshi-die/">下一篇->静心时间 By:十叠</a>
-              </div>
-            </nav>
-          
-      </div>
-      <section id="comments" class="comments">
-        
-      </section>
-    </div>
-  </div>
-  <footer id="site-footer" class="site-footer" role="contentinfo">
-    <h1>
-        <a href="https://jessegary.github.io"> Humidity 商店 </a>
-    </h1>
-    <p class="site-description">欢迎来到生态圈商店，您可以在这里下载应用</p>
-    <div id="menu-footer" class="menu-container menu-footer" role="navigation">
-        <div class="menu">
-            <ul id="menu-footer-items" class="menu-footer-items">
-            </ul>
-        </div>
-    </div>
-    <ul class="social-media-icons">
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-    </ul>
-    <div class="design-credit">
-        <p>Powered by <a href="https://bilibili.com" target="_blank"> Humidity PowerPoint</a></p>
-    </div>
-</footer>
-<script>
-    hljs.initHighlightingOnLoad()
-</script>
-<script src="https://jessegary.github.io/media/scripts/lib/jquery.min.js"></script>
-<script src="https://jessegary.github.io/media/scripts/lib/jquerymigrate.js"></script>
-<script src="https://jessegary.github.io/media/scripts/lib/production.min.js"></script>
-
 </div>
+        <div class="mdui-card-header">
+            <img class="mdui-card-header-avatar" src="https://jessegary.github.io/images/avatar.png">
+            <div class="mdui-card-header-title">Humidity 商店</div>
+            <div class="mdui-card-header-subtitle">欢迎来到生态圈商店，您可以在这里下载应用</div>
+        </div>
+    </section>
+
+      
+</main>
+
+<nav class="mdui-container mdui-m-t-2 mdui-m-b-2">
+    
+    <a href="https://jessegary.github.io/post/jing-xin-shi-jian-rang-ni-ke-yi-geng-jia-zhuan-zhu-wan-cheng-gong-zuo-byshi-die/" mdui-tooltip="{content: '下一篇', position: 'left'}" class="mdui-float-right">静心时间 By:十叠<button class="mdui-btn mdui-btn-icon mdui-btn-dense mdui-color-theme-accent mdui-ripple mdui-m-l-1"><i class="mdui-icon material-icons">arrow_forward</i></button></a>
+</nav>
+
+<div class="mdui-m-t-2 mdui-text-center mdui-typo">
+    Powered by <a href="https://bilibili.com" target="_blank"> Humidity PowerPoint</a>
+</div>
+
+<script src="https://jessegary.github.io/media/js/jquery.min.js"></script>
+<script src="https://jessegary.github.io/media/js/mdui.min.js"></script>
+<script src="https://jessegary.github.io/media/js/modify.js"></script>
+<script src="https://jessegary.github.io/media/js/highlight.min.js"></script>
+<script src="https://jessegary.github.io/media/js/lightense.min.js"></script>
+<script>
+// 初始化-高亮代码
+hljs.initHighlightingOnLoad();
+// 初始化-文章图片放大
+window.addEventListener('load', function () {
+    Lightense('#post .mdui-card-content img');
+}, false);
+</script>
+
 </body>
 </html>
-
