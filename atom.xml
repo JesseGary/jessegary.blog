@@ -1,55 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://jessegary.github.io</id>
-    <title>Humidity 商店</title>
-    <updated>2020-05-30T09:36:10.855Z</updated>
+    <id>https://jessegary.github.io/jessegary.blog/</id>
+    <title>JesseGary&apos;s Blog</title>
+    <updated>2020-06-06T14:19:41.005Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://jessegary.github.io"/>
-    <link rel="self" href="https://jessegary.github.io/atom.xml"/>
-    <subtitle>欢迎来到生态圈商店，您可以在这里下载应用</subtitle>
-    <logo>https://jessegary.github.io/images/avatar.png</logo>
-    <icon>https://jessegary.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, Humidity 商店</rights>
-    <entry>
-        <title type="html"><![CDATA[Humidity 绿色应用计划]]></title>
-        <id>https://jessegary.github.io/post/humidity-lu-se-ying-yong-ji-hua/</id>
-        <link href="https://jessegary.github.io/post/humidity-lu-se-ying-yong-ji-hua/">
-        </link>
-        <updated>2020-05-06T06:28:41.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[静心时间 By:十叠]]></title>
-        <id>https://jessegary.github.io/post/jing-xin-shi-jian-rang-ni-ke-yi-geng-jia-zhuan-zhu-wan-cheng-gong-zuo-byshi-die/</id>
-        <link href="https://jessegary.github.io/post/jing-xin-shi-jian-rang-ni-ke-yi-geng-jia-zhuan-zhu-wan-cheng-gong-zuo-byshi-die/">
-        </link>
-        <updated>2020-04-18T09:16:30.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tuling Studio 20200210 By:Newgen Studio]]></title>
-        <id>https://jessegary.github.io/post/tuling-studio-20200210/</id>
-        <link href="https://jessegary.github.io/post/tuling-studio-20200210/">
-        </link>
-        <updated>2020-04-12T10:30:48.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Newgen 电视]]></title>
-        <id>https://jessegary.github.io/post/newgen-dian-shi/</id>
-        <link href="https://jessegary.github.io/post/newgen-dian-shi/">
-        </link>
-        <updated>2020-04-12T10:04:26.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[小小笔记本 By:MXrek]]></title>
-        <id>https://jessegary.github.io/post/xiao-xiao-bi-ji-ben/</id>
-        <link href="https://jessegary.github.io/post/xiao-xiao-bi-ji-ben/">
-        </link>
-        <updated>2020-04-12T10:01:36.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Windows Media Player For PowerPoint By:Newgen Studio]]></title>
-        <id>https://jessegary.github.io/post/ying-yong-ce-shi/</id>
-        <link href="https://jessegary.github.io/post/ying-yong-ce-shi/">
-        </link>
-        <updated>2020-04-12T06:35:48.000Z</updated>
-    </entry>
+    <link rel="alternate" href="https://jessegary.github.io/jessegary.blog/"/>
+    <link rel="self" href="https://jessegary.github.io/jessegary.blog/atom.xml"/>
+    <subtitle>欢迎呀</subtitle>
+    <logo>https://jessegary.github.io/jessegary.blog/images/avatar.png</logo>
+    <icon>https://jessegary.github.io/jessegary.blog/favicon.ico</icon>
+    <rights>All rights reserved 2020, JesseGary&apos;s Blog</rights>
 </feed>
