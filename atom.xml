@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jessegary.github.io/jessegary.blog/</id>
     <title>JesseGary&apos;s Blog</title>
-    <updated>2020-06-07T02:55:47.675Z</updated>
+    <updated>2020-06-07T05:14:10.293Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://jessegary.github.io/jessegary.blog/"/>
     <link rel="self" href="https://jessegary.github.io/jessegary.blog/atom.xml"/>
@@ -16,6 +16,8 @@
         <link href="https://jessegary.github.io/jessegary.blog/post/RzHVgwQf3/">
         </link>
         <updated>2020-06-07T02:32:27.000Z</updated>
+        <content type="html"><![CDATA[<p>作者正在编写文章哦~</p>
+]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[全新 Microsoft Office 手机版，全新升级的体验]]></title>
@@ -23,6 +25,20 @@
         <link href="https://jessegary.github.io/jessegary.blog/post/QbmuvWeln/">
         </link>
         <updated>2020-06-06T16:16:22.000Z</updated>
+        <content type="html"><![CDATA[<p>最近发现 Microsoft Office 的手机版出现了，我立刻就下载了下来，决定体验体验使用的感受</p>
+<h2 id="打开">打开</h2>
+<p>”哇这个界面好漂亮！“这是我当时第一眼看见的感觉，觉得很简洁，很直观。<br>
+<img src="https://jessegary.github.io/jessegary.blog//post-images/1591495313952.png" alt="" loading="lazy"></p>
+<h2 id="简单体验">简单体验</h2>
+<p>进入主页，发现Office整合了很多功能，用起来十分方便，通过微软的云同步，可以非常方便的查看个人在电脑版Word,Excel,PPT中上传到云端的文件，同时也据有Office Lens和Windows的便签同步的功能，但是微软的服务器反应慢啊(除了世纪互联版)，便签会随时同步，很方便<br>
+<img src="https://jessegary.github.io/jessegary.blog//post-images/1591495381358.png" alt="" loading="lazy"><br>
+同时，还可以使用扫描的功能来扫描文档非常的方便<br>
+<img src="https://jessegary.github.io/jessegary.blog//post-images/1591495387390.png" alt="" loading="lazy"><br>
+这个Office除了有上面的功能外，Office还可以直接扫描表格，文字变成Excel，Word文档,当然，还可以扫描图片变成PPT（此功能我目前还没有实际体验）当然也可以创建一般的文档啦~<br>
+<img src="https://jessegary.github.io/jessegary.blog//post-images/1591495417023.png" alt="" loading="lazy"></p>
+<h2 id="总结">总结</h2>
+<p>该有的都有，功能挺多的，界面也不错，但是服务器反应慢，下载文件慢，上传也慢（除了世纪互联版），便签还是可以的，同步速度也挺好，不过我用的是拼音输入法，一开始会停留在预输入的字母阶段，有时候同步了预输入字母，但是我已经选字了，而手机版却只同步了预输入的字母，选完了字也没用23333。</p>
+]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[欢迎来到JesseGary 的博客哦~]]></title>
@@ -30,5 +46,21 @@
         <link href="https://jessegary.github.io/jessegary.blog/post/RP13flOM_/">
         </link>
         <updated>2020-06-06T14:36:09.000Z</updated>
+        <content type="html"><![CDATA[<h2 id="欢迎">欢迎！</h2>
+<p>欢迎来到JesseGary的博客，这个博客基于nuoea搭建，修改了一下主要的头像，这个博客会发一些文章，一些好用的App介绍啊，这里也会更新一些PPT系统之类的PPT和一些小小的教程，同时会也在B站/西瓜/优酷/Youtube上发视频。</p>
+<h2 id="为什么要独立博客">为什么要独立博客</h2>
+<p>因为在Humidity商店放博客有亿些奇怪，所以就独立开来啦~</p>
+<h2 id="了解jessegary">了解JesseGary</h2>
+<ul>
+<li>JesseGary是个什么样的人？<br>
+说实在话，我自己也搞不清楚啊啊啊啊~QAQ<br>
+JesseGary在B站，西瓜，优酷，Youtube上发布视频，所有平台发布时间为B站最快</li>
+</ul>
+<h2 id="加入qq群聊与我们交流一般聊ppt设计不过我们基本什么都聊">加入QQ群聊与我们交流（一般聊PPT/设计，不过我们基本什么都聊）</h2>
+<p>JesseGary Other .Lab 2 1087315400<br>
+JesseGary General Laboratory   717199305</p>
+<h2 id="支持一下jessegary啦~">支持一下JesseGary啦~</h2>
+<p>关注我的B站，就是支持我啦~</p>
+]]></content>
     </entry>
 </feed>
