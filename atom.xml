@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jessegary.github.io/jessegary.blog/</id>
     <title>JesseGary&apos;s Blog</title>
-    <updated>2020-06-07T13:02:19.389Z</updated>
+    <updated>2020-06-07T13:34:28.254Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://jessegary.github.io/jessegary.blog/"/>
     <link rel="self" href="https://jessegary.github.io/jessegary.blog/atom.xml"/>
@@ -10,6 +10,33 @@
     <logo>https://jessegary.github.io/jessegary.blog/images/avatar.png</logo>
     <icon>https://jessegary.github.io/jessegary.blog/favicon.ico</icon>
     <rights>All rights reserved 2020, JesseGary&apos;s Blog</rights>
+    <entry>
+        <title type="html"><![CDATA[手机无需安装任何App，直接投屏到电脑 | Scrcpy | Vol.8]]></title>
+        <id>https://jessegary.github.io/jessegary.blog/post/7l6dJRFUl/</id>
+        <link href="https://jessegary.github.io/jessegary.blog/post/7l6dJRFUl/">
+        </link>
+        <updated>2020-06-07T13:08:03.000Z</updated>
+        <content type="html"><![CDATA[<p>正在写作</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[可能会成为更好用的浏览器！ | Edge Chromium | Vol.7]]></title>
+        <id>https://jessegary.github.io/jessegary.blog/post/lbZ_Yf8Wj/</id>
+        <link href="https://jessegary.github.io/jessegary.blog/post/lbZ_Yf8Wj/">
+        </link>
+        <updated>2020-06-07T13:05:48.000Z</updated>
+        <content type="html"><![CDATA[<p>文章正在编写哦~</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[搜索，变得更快了 | Everything | Vol.6]]></title>
+        <id>https://jessegary.github.io/jessegary.blog/post/2aqyONjyv/</id>
+        <link href="https://jessegary.github.io/jessegary.blog/post/2aqyONjyv/">
+        </link>
+        <updated>2020-06-07T13:04:32.000Z</updated>
+        <content type="html"><![CDATA[<p>文章正在编写</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[让你的平板和手机变成电脑的副屏吧~ | Spacedesk | Vol.5]]></title>
         <id>https://jessegary.github.io/jessegary.blog/post/_WavLEM_v/</id>
