@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jessegary.github.io/jessegary.blog/</id>
     <title>JesseGary&apos;s Blog</title>
-    <updated>2020-06-07T14:26:25.907Z</updated>
+    <updated>2020-06-07T14:35:37.845Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://jessegary.github.io/jessegary.blog/"/>
     <link rel="self" href="https://jessegary.github.io/jessegary.blog/atom.xml"/>
@@ -26,8 +26,8 @@
         </link>
         <updated>2020-06-07T13:05:48.000Z</updated>
         <content type="html"><![CDATA[<p>文章正在编写哦~</p>
-<p>Edge 宣传片 ： 来自B站</p>
-<iframe src="//player.bilibili.com/player.html?aid=667721129&bvid=BV1ha4y1x7P4&cid=176429347&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height= "1080" width="1920"> </iframe>]]></content>
+<p>Edge 宣传片 ： 来自B站 字幕By:于小米</p>
+<iframe src="//player.bilibili.com/player.html?aid=667721129&bvid=BV1ha4y1x7P4&cid=176429347&page=1" scrolling="no" border="0" frameborder="no" framespacing="2" allowfullscreen="true" height= "450" width="690"> </iframe>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[搜索，变得更快了 | Everything | Vol.6]]></title>
