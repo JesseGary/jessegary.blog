@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jessegary.github.io/jessegary.blog/</id>
     <title>JesseGary&apos;s Blog</title>
-    <updated>2020-06-14T13:19:03.900Z</updated>
+    <updated>2020-06-14T13:43:17.586Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://jessegary.github.io/jessegary.blog/"/>
     <link rel="self" href="https://jessegary.github.io/jessegary.blog/atom.xml"/>
@@ -68,7 +68,19 @@
         </link>
         <updated>2020-06-07T11:53:20.000Z</updated>
         <content type="html"><![CDATA[<h2 id="配置部分">配置部分</h2>
-<p>1.请确认你的电脑</p>
+<ul>
+<li>服务端<br>
+1.请确认你的电脑在 Windows8.1及以上版本，老版本不能使用<br>
+2.打开网站 https://spacedesk.net<br>
+3.点击下载服务端，等待下载完成后安装，安装过程如果有弹出驱动安装，请点击“安装”<br>
+4.当你看见如下图画面，并且可以正常打开，就代表服务端已安装完成！<br>
+<img src="https://jessegary.github.io/jessegary.blog//post-images/1592141481999.png" alt="" loading="lazy"></li>
+<li>手机/平板端<br>
+您可以去应用汇下载此应用，或者是使用我们提供的下载地址进行下载哦~<br>
+<a href="https://wws.lanzous.com/iDN5fdo942h">SpaceDesk - Beta 蓝奏云</a><br>
+<a href="http://www.appchina.com/app/ph.spacedesk.beta">SpaceDesk - Beta 应用汇</a><br>
+下载完成安装后就不用管了哦~</li>
+</ul>
 ]]></content>
     </entry>
     <entry>
