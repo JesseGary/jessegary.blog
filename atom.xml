@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jessegary.github.io/jessegary.blog/</id>
     <title>JesseGary&apos;s Blog</title>
-    <updated>2020-06-14T05:11:56.752Z</updated>
+    <updated>2020-06-14T08:37:49.934Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://jessegary.github.io/jessegary.blog/"/>
     <link rel="self" href="https://jessegary.github.io/jessegary.blog/atom.xml"/>
@@ -44,7 +44,8 @@
         <link href="https://jessegary.github.io/jessegary.blog/post/spacedesk/">
         </link>
         <updated>2020-06-07T11:53:20.000Z</updated>
-        <content type="html"><![CDATA[<h2 id="体验">体验</h2>
+        <content type="html"><![CDATA[<h2 id="配置部分">配置部分</h2>
+<p>1.请确认你的电脑</p>
 ]]></content>
     </entry>
     <entry>
