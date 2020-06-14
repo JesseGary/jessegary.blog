@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://jessegary.github.io/jessegary.blog/</id>
+    <id>http://localhost:4000</id>
     <title>JesseGary&apos;s Blog</title>
-    <updated>2020-06-14T08:37:49.934Z</updated>
+    <updated>2020-06-14T08:40:09.931Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://jessegary.github.io/jessegary.blog/"/>
-    <link rel="self" href="https://jessegary.github.io/jessegary.blog/atom.xml"/>
+    <link rel="alternate" href="http://localhost:4000"/>
+    <link rel="self" href="http://localhost:4000/atom.xml"/>
     <subtitle>欢迎呀</subtitle>
-    <logo>https://jessegary.github.io/jessegary.blog/images/avatar.png</logo>
-    <icon>https://jessegary.github.io/jessegary.blog/favicon.ico</icon>
+    <logo>http://localhost:4000/images/avatar.png</logo>
+    <icon>http://localhost:4000/favicon.ico</icon>
     <rights>All rights reserved 2020, JesseGary&apos;s Blog</rights>
     <entry>
         <title type="html"><![CDATA[手机无需安装任何App，直接投屏到电脑 | Scrcpy | Vol.8]]></title>
-        <id>https://jessegary.github.io/jessegary.blog/post/7l6dJRFUl/</id>
-        <link href="https://jessegary.github.io/jessegary.blog/post/7l6dJRFUl/">
+        <id>http://localhost:4000/post/7l6dJRFUl/</id>
+        <link href="http://localhost:4000/post/7l6dJRFUl/">
         </link>
         <updated>2020-06-07T13:08:03.000Z</updated>
         <content type="html"><![CDATA[<p>正在写作</p>
@@ -21,8 +21,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[可能会成为更好用的浏览器！ | Edge Chromium | Vol.7]]></title>
-        <id>https://jessegary.github.io/jessegary.blog/post/lbZ_Yf8Wj/</id>
-        <link href="https://jessegary.github.io/jessegary.blog/post/lbZ_Yf8Wj/">
+        <id>http://localhost:4000/post/lbZ_Yf8Wj/</id>
+        <link href="http://localhost:4000/post/lbZ_Yf8Wj/">
         </link>
         <updated>2020-06-07T13:05:48.000Z</updated>
         <content type="html"><![CDATA[<p>文章正在编写哦~</p>
@@ -31,8 +31,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[搜索，变得更快了 | Everything | Vol.6]]></title>
-        <id>https://jessegary.github.io/jessegary.blog/post/2aqyONjyv/</id>
-        <link href="https://jessegary.github.io/jessegary.blog/post/2aqyONjyv/">
+        <id>http://localhost:4000/post/2aqyONjyv/</id>
+        <link href="http://localhost:4000/post/2aqyONjyv/">
         </link>
         <updated>2020-06-07T13:04:32.000Z</updated>
         <content type="html"><![CDATA[<p>文章正在编写</p>
@@ -40,8 +40,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[让你的平板和手机变成电脑的副屏吧~ | Spacedesk | Vol.5]]></title>
-        <id>https://jessegary.github.io/jessegary.blog/post/spacedesk/</id>
-        <link href="https://jessegary.github.io/jessegary.blog/post/spacedesk/">
+        <id>http://localhost:4000/post/spacedesk/</id>
+        <link href="http://localhost:4000/post/spacedesk/">
         </link>
         <updated>2020-06-07T11:53:20.000Z</updated>
         <content type="html"><![CDATA[<h2 id="配置部分">配置部分</h2>
@@ -50,8 +50,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[个人认为最好用的哔哩哔哩UWP客户端——哔哩 | Vol.4]]></title>
-        <id>https://jessegary.github.io/jessegary.blog/post/qWQovduxg/</id>
-        <link href="https://jessegary.github.io/jessegary.blog/post/qWQovduxg/">
+        <id>http://localhost:4000/post/qWQovduxg/</id>
+        <link href="http://localhost:4000/post/qWQovduxg/">
         </link>
         <updated>2020-06-07T11:45:11.000Z</updated>
         <content type="html"><![CDATA[<p>作者正在编写文章哦~</p>
@@ -59,8 +59,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Office Tool Plus | 更加方便的管理 Office | Vol.3]]></title>
-        <id>https://jessegary.github.io/jessegary.blog/post/vMzqbj4wR/</id>
-        <link href="https://jessegary.github.io/jessegary.blog/post/vMzqbj4wR/">
+        <id>http://localhost:4000/post/vMzqbj4wR/</id>
+        <link href="http://localhost:4000/post/vMzqbj4wR/">
         </link>
         <updated>2020-06-07T05:18:56.000Z</updated>
         <content type="html"><![CDATA[<p>文章正在编写哦~</p>
@@ -68,50 +68,50 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[WPS手机版简单体验~ | Vol.2]]></title>
-        <id>https://jessegary.github.io/jessegary.blog/post/RzHVgwQf3/</id>
-        <link href="https://jessegary.github.io/jessegary.blog/post/RzHVgwQf3/">
+        <id>http://localhost:4000/post/RzHVgwQf3/</id>
+        <link href="http://localhost:4000/post/RzHVgwQf3/">
         </link>
         <updated>2020-06-07T02:32:27.000Z</updated>
         <content type="html"><![CDATA[<p>WPS一直是国产办公软件的巨头，使用体验非常不错（电脑版广告有点多，要会员才能去除，不过金山也是要恰饭的嘛~不过可以在选项关闭部分广告，电脑版的PPT渲染不行）</p>
 <h2 id="打开">打开</h2>
 <p>现在我打开了我的手机版WPS，进行了一系列的登入后，资料也像微软的Office一样同步过来了~<br>
 WPS手机版个人认为还是挺不错的，在这几天的使用中，并没有发现什么广告（除了在文件列表中发现了一个广告，还发现WPS可以检测从微信接收的文件，这个功能Office是没有的！<br>
-<img src="https://jessegary.github.io/jessegary.blog//post-images/1591524664067.png" alt="" loading="lazy"></p>
+<img src="http://localhost:4000/post-images/1591524664067.png" alt="" loading="lazy"></p>
 <h2 id="云文档和应用功能">云文档和应用功能</h2>
 <p>WPS也有自己的云文档功能，免费提供1GB的存储空间，服务器反应比Office快很多（因没有实际体验，世纪互联版不算），还有让我惊讶的一点是，WPS的功能真的很多，进入应用界面，你可以看见各种各样的工具（不过有一些工具是需要会员才能使用）<br>
-<img src="https://jessegary.github.io/jessegary.blog//post-images/1591526086277.png" alt="" loading="lazy"></p>
+<img src="http://localhost:4000/post-images/1591526086277.png" alt="" loading="lazy"></p>
 <h2 id="稻壳模板和会员">稻壳模板和会员</h2>
 <p>接下来我点开了稻壳模板，发现里面的模板都挺不错的，稻壳会员的价格其实还好，不过只能使用稻壳会员的模板，同时，我也看了看超级会员，价格也还可以，同时可以使用WPS会员特权以及稻壳会员的特权。其实这也很良心了<br>
-<img src="https://jessegary.github.io/jessegary.blog//post-images/1591526670267.png" alt="" loading="lazy"></p>
+<img src="http://localhost:4000/post-images/1591526670267.png" alt="" loading="lazy"></p>
 <h2 id="小结">小结</h2>
 <p>WPS其实是挺好用的，在电脑版WPS卸载的时候有个选项是可以关闭广告的，同时也可以花1元去广告，WPS很适合轻办公用户，因为WPS做Word和Excel其实都挺方便的，同时也可以检测微信的接收到的文件，这些优点是Office没有的，会员的价格其实也还好，就算没有会员，花点时间设置一下，广告就没有了（但是只是去掉了部分的广告），稻壳模板提供的模板都挺不错的，类型也很多，云文档下载速度快，功能又多，个人认为，每个办公软件都各有优缺点 ，需要看自己是用来干什么的，使用场景是什么，寻找最适合自己的软件吧~</p>
 ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[全新 Microsoft Office 手机版，全新升级的体验 | Vol.1]]></title>
-        <id>https://jessegary.github.io/jessegary.blog/post/QbmuvWeln/</id>
-        <link href="https://jessegary.github.io/jessegary.blog/post/QbmuvWeln/">
+        <id>http://localhost:4000/post/QbmuvWeln/</id>
+        <link href="http://localhost:4000/post/QbmuvWeln/">
         </link>
         <updated>2020-06-06T16:16:22.000Z</updated>
         <content type="html"><![CDATA[<p>最近发现 Microsoft Office 的手机版出现了，我立刻就下载了下来，决定体验体验使用的感受</p>
 <h2 id="打开">打开</h2>
 <p>”哇这个界面好漂亮！“这是我当时第一眼看见的感觉，觉得很简洁，很直观。<br>
-<img src="https://jessegary.github.io/jessegary.blog//post-images/1591495313952.png" alt="" loading="lazy"></p>
+<img src="http://localhost:4000/post-images/1591495313952.png" alt="" loading="lazy"></p>
 <h2 id="简单体验">简单体验</h2>
 <p>进入主页，发现Office整合了很多功能，用起来十分方便，通过微软的云同步，可以非常方便的查看个人在电脑版Word,Excel,PPT中上传到云端的文件，同时也据有Office Lens和Windows的便签同步的功能，但是微软的服务器反应慢啊(除了世纪互联版)，便签会随时同步，很方便<br>
-<img src="https://jessegary.github.io/jessegary.blog//post-images/1591495381358.png" alt="" loading="lazy"><br>
+<img src="http://localhost:4000/post-images/1591495381358.png" alt="" loading="lazy"><br>
 同时，还可以使用扫描的功能来扫描文档非常的方便<br>
-<img src="https://jessegary.github.io/jessegary.blog//post-images/1591495387390.png" alt="" loading="lazy"><br>
+<img src="http://localhost:4000/post-images/1591495387390.png" alt="" loading="lazy"><br>
 这个Office除了有上面的功能外，Office还可以直接扫描表格，文字变成Excel，Word文档,当然，还可以扫描图片变成PPT（此功能我目前还没有实际体验）当然也可以创建一般的文档啦~<br>
-<img src="https://jessegary.github.io/jessegary.blog//post-images/1591495417023.png" alt="" loading="lazy"></p>
+<img src="http://localhost:4000/post-images/1591495417023.png" alt="" loading="lazy"></p>
 <h2 id="总结">总结</h2>
 <p>该有的都有，功能挺多的，界面也不错，但是服务器反应慢，下载文件慢，上传也慢（除了世纪互联版），便签还是可以的，同步速度也挺好，不过我用的是拼音输入法，一开始会停留在预输入的字母阶段，有时候同步了预输入字母，但是我已经选字了，而手机版却只同步了预输入的字母，选完了字也没用。</p>
 ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[欢迎来到JesseGary 的博客哦~]]></title>
-        <id>https://jessegary.github.io/jessegary.blog/post/RP13flOM_/</id>
-        <link href="https://jessegary.github.io/jessegary.blog/post/RP13flOM_/">
+        <id>http://localhost:4000/post/RP13flOM_/</id>
+        <link href="http://localhost:4000/post/RP13flOM_/">
         </link>
         <updated>2020-06-06T14:36:09.000Z</updated>
         <content type="html"><![CDATA[<h2 id="欢迎">欢迎！</h2>
