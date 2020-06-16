@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jessegary.github.io/jessegary.blog/</id>
     <title>JesseGary&apos;s Blog</title>
-    <updated>2020-06-16T09:21:07.924Z</updated>
+    <updated>2020-06-16T12:23:12.411Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://jessegary.github.io/jessegary.blog/"/>
     <link rel="self" href="https://jessegary.github.io/jessegary.blog/atom.xml"/>
@@ -93,7 +93,14 @@ Spacedesk 会在电脑启动时自动开启，如果不需要，你可以在 Win
 <li>界面介绍<br>
 1.服务端(PC)<br>
 <img src="https://jessegary.github.io/jessegary.blog//post-images/1592298517655.png" alt="" loading="lazy"><br>
-2.连接端(手机)</li>
+2.连接端(手机)<br>
+<img src="https://jessegary.github.io/jessegary.blog//post-images/1592309613278.png" alt="" loading="lazy"><br>
+因为文章篇幅有限，就用文字解释吧（以下内容是手机端）<br>
+(1)Setting 设置:在里面可以设置分辨率，连接质量，控制，屏幕方向等...<br>
+(2)User Manual：会打开spacedesk.net<br>
+(3)Technical Support 技术支持：好像也会打开一个文章<br>
+(4)About 关于：关于Spacedesk</li>
+<li>连接到设备</li>
 </ul>
 ]]></content>
     </entry>
