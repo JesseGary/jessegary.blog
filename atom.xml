@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jessegary.github.io/jessegary.blog/</id>
     <title>JesseGary&apos;s Blog</title>
-    <updated>2020-06-14T14:14:58.186Z</updated>
+    <updated>2020-06-16T09:21:07.924Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://jessegary.github.io/jessegary.blog/"/>
     <link rel="self" href="https://jessegary.github.io/jessegary.blog/atom.xml"/>
@@ -79,7 +79,21 @@
 您可以去应用汇下载此应用，或者是使用我们提供的下载地址进行下载哦~<br>
 <a href="https://wws.lanzous.com/iDN5fdo942h">SpaceDesk - Beta 蓝奏云</a><br>
 <a href="http://www.appchina.com/app/ph.spacedesk.beta">SpaceDesk - Beta 应用汇</a><br>
-下载完成安装后就不用管了哦~</li>
+下载完成安装后就不用管了哦~<br>
+安装完成后，您的设备上应该有此软件<br>
+<img src="https://jessegary.github.io/jessegary.blog//post-images/1592297920786.png" alt="" loading="lazy"></li>
+</ul>
+<ul>
+<li>到此，配置部分完成！</li>
+</ul>
+<h2 id="开始使用">开始使用</h2>
+<ul>
+<li>请注意<br>
+Spacedesk 会在电脑启动时自动开启，如果不需要，你可以在 Windows10 的任务管理器将其关闭。</li>
+<li>界面介绍<br>
+1.服务端(PC)<br>
+<img src="https://jessegary.github.io/jessegary.blog//post-images/1592298517655.png" alt="" loading="lazy"><br>
+2.连接端(手机)</li>
 </ul>
 ]]></content>
     </entry>
