@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jessegary.github.io/jessegary.blog/</id>
     <title>JesseGary&apos;s Blog</title>
-    <updated>2020-09-20T06:37:28.918Z</updated>
+    <updated>2020-10-01T15:34:12.820Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://jessegary.github.io/jessegary.blog/"/>
     <link rel="self" href="https://jessegary.github.io/jessegary.blog/atom.xml"/>
@@ -11,12 +11,20 @@
     <icon>https://jessegary.github.io/jessegary.blog/favicon.ico</icon>
     <rights>All rights reserved 2020, JesseGary&apos;s Blog</rights>
     <entry>
-        <title type="html"><![CDATA[。]]></title>
-        <id>https://jessegary.github.io/jessegary.blog/post/7l-Oqv1ol/</id>
-        <link href="https://jessegary.github.io/jessegary.blog/post/7l-Oqv1ol/">
+        <title type="html"><![CDATA[共享庆典，体验 MINECRAFT 中的一切精彩！]]></title>
+        <id>https://jessegary.github.io/jessegary.blog/post/DX-xRmJ-q/</id>
+        <link href="https://jessegary.github.io/jessegary.blog/post/DX-xRmJ-q/">
         </link>
-        <updated>2020-09-20T06:36:59.000Z</updated>
-        <content type="html"><![CDATA[<p>.</p>
+        <updated>2020-10-01T15:24:26.000Z</updated>
+        <content type="html"><![CDATA[<p>MINECRAFT LIVE 是什么？</p>
+<h2 id="共享庆典体验-minecraft-中的一切精彩">共享庆典，体验 MINECRAFT 中的一切精彩！</h2>
+<p>我们将通过互联网向全世界直播！这次节目汇集了生动丰富的 Minecraft 资讯、活力有趣的内容创作者，并将播出庆典的准备花絮，此外还设置了对游戏产生实际影响的社区投票环节！<br>
+<img src="https://jessegary.github.io/jessegary.blog//post-images/1601565973741.png" alt="" loading="lazy"><br>
+手机、平板电脑、个人电脑以及游戏主机等设备通通能够收看我们的精彩节目！并且您既可以在此首选网站观看节目，还能访问 Facebook、YouTube 以及 Twitch 上的官方 Minecraft 账号进行观看！（或者是B站WuGuangYao，我的世界网易官方账户都会转播）<br>
+<img src="https://jessegary.github.io/jessegary.blog//post-images/1601566324261.png" alt="" loading="lazy"><br>
+<img src="https://jessegary.github.io/jessegary.blog//post-images/1601566370518.png" alt="" loading="lazy"></p>
+<h2 id="全球广播时间">全球广播时间</h2>
+<figure data-type="image" tabindex="1"><img src="https://jessegary.github.io/jessegary.blog//post-images/1601566444278.jpg" alt="" loading="lazy"></figure>
 ]]></content>
     </entry>
 </feed>
