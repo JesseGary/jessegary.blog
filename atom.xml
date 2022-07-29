@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://jessegary.github.io/jessegary.blog/</id>
+    <title>凌禄的小站(≧∀≦)ゞ</title>
+    <updated>2022-07-29T08:31:09.132Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://jessegary.github.io/jessegary.blog/"/>
+    <link rel="self" href="https://jessegary.github.io/jessegary.blog/atom.xml"/>
+    <subtitle>你好呀~欢迎来到凌禄的小站ヾ(•ω•`)o</subtitle>
+    <logo>https://jessegary.github.io/jessegary.blog/images/avatar.png</logo>
+    <icon>https://jessegary.github.io/jessegary.blog/favicon.ico</icon>
+    <rights>All rights reserved 2022, 凌禄的小站(≧∀≦)ゞ</rights>
+    <entry>
+        <title type="html"><![CDATA[你好呀*╭︎( ˙º˙)╯︎*]]></title>
+        <id>https://jessegary.github.io/jessegary.blog/post/hello/</id>
+        <link href="https://jessegary.github.io/jessegary.blog/post/hello/">
+        </link>
+        <updated>2022-07-28T08:37:49.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="介绍一下自己~-ω">介绍一下自己~(。・ω・。)</h1>
+<p>你好呀(๑╹ヮ╹๑)ﾉ我叫凌禄~<br>
+是一个萌新UI设计师，15岁，身高184 目前还是一位学生。<br>
+目前在学习制作PPT系统和设计简单的UI</p>
+<p>在做的PPT系统有: ReHearsal Desktop , Reagent OS 以及目前已经转让的 Hill OS。<br>
+以及Orion OS 和 Pointy UI（目前为止文件找不到惹）</p>
+<p>我也是ToDesign小小工作室的唯一成员~(ง •_•)ง</p>
+<blockquote>
+<blockquote>
+<p>打个小广告哈，如果你想加入ToDesign，可以在B站或todesign.studio@outlook.com（当然你有我QQ直接加也可以呀）</p>
+</blockquote>
+</blockquote>
+<p>目前本人主要在哔哩哔哩制作和发布视频(。・ω・。)</p>
+<blockquote>
+<blockquote>
+<p>感兴趣可以看看呀 https://space.bilibili.com/241603766</p>
+</blockquote>
+</blockquote>
+<h1 id="我会发啥ˉˉ">我会发啥(ˉ﹃ˉ)</h1>
+<p>在这个小地方我会发布:</p>
+<ul>
+<li>设计稿的分享（这个也会在B站 &gt; https://space.bilibili.com/198338518 上同步更新)</li>
+<li>PPT系统的下载链接</li>
+<li>一些来自XDA的安卓ROM包</li>
+<li>一些生活日常和小想法</li>
+<li>一些小教程</li>
+<li>一些小照片</li>
+<li>一些玩机的分享</li>
+</ul>
+<p>希望大家喜欢 ⸜(๑'ᵕ'๑)⸝⋆*～</p>
+<p>让我们一起加油叭！诶嘿(・ω&lt; )★​</p>
+]]></content>
+    </entry>
+</feed>
